@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning by Design Review"
+  short_description: "Review learning content and assessment design"
+  default_prompt: "Review this learning artifact using Learning by Design. Cite source basis separately from your observations and recommendations."

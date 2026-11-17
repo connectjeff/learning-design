@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning by Design GenAI Assessment"
+  short_description: "Design or audit assessments involving learner GenAI use"
+  default_prompt: "Design an assessment that makes learner judgment, process, and revision visible when generative AI is used."

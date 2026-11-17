@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning by Design Syllabus Audit"
+  short_description: "Audit syllabus alignment, assessment, and GenAI guidance"
+  default_prompt: "Audit this syllabus for alignment of outcomes, learning activities, assessment, and learner generative-AI use."
